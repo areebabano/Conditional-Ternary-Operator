@@ -1,0 +1,15 @@
+{
+  "name": "conditional-ternary-operator",
+  "version": "1.0.0",
+  "description": "In this repository we are practicing a Typescript(TS) conditional ternary operator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
